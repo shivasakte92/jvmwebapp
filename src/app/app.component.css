@@ -1,0 +1,36 @@
+    .container2 {
+      position: relative;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .container2 img {
+      margin-bottom: -1px;
+    }
+
+    .container2 .content2 {
+      font-family: Raleway;
+      position: absolute;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+      color: #f1f1f1;
+      width: 100%;
+      padding: 20px;
+    }
+
+    .container3 {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container3 img {vertical-align: middle;}
+
+.container3 .content3 {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
